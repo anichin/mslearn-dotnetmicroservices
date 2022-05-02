@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "frontend", "frontend\fronte
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D36A3A49-D817-4BA5-BD93-0C7772B3E79B}"
 	ProjectSection(SolutionItems) = preProject
+		backend-deploy.yml = backend-deploy.yml
 		docker-compose.yml = docker-compose.yml
+		frontend-deploy.yml = frontend-deploy.yml
 	EndProjectSection
 EndProject
 Global
